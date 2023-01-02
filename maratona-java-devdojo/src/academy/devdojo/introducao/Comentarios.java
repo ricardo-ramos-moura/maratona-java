@@ -1,8 +1,8 @@
-package academy.devdojo.comentarios;
+package academy.devdojo.introducao;
 
 public class Comentarios {
     /**
-        Isso é um comentário <b>javadoc</>
+        Isso é um comentário <b>javadoc<b/>
      */
     public static void main(String[] args) {
         //Isso é um comentário de uma linha
