@@ -19,5 +19,8 @@ public class TiposPrimitivos {
         float salaryDoubleCast = (float) 2500.0D;
         System.out.println("Salary cast is " + salaryDoubleCast);
 
+        String name = "Obi Wan Kenobi";
+        System.out.println("Name: " + name);
+
     }
 }
