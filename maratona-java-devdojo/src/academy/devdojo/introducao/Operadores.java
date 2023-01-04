@@ -26,6 +26,13 @@ public class Operadores {
         System.out.println("isTenSmallerEqualTwenty " + isTenSmallerEqualTwenty);
         System.out.println("isTenDifferentTwenty " + isTenDifferentTwenty);
 
+        // && (AND) || (OR) !
+        int age = 30;
+        boolean isLargerhirty = age > 30;
+        boolean isLargerEqualThirty = age >= 30;
+        System.out.println("isLargerhirty " + isLargerhirty);
+        System.out.println("isLargerEqualThirty " + isLargerEqualThirty);
+
 
 
     }
