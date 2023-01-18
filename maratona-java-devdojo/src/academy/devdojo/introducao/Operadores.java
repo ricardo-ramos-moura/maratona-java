@@ -33,6 +33,13 @@ public class Operadores {
         System.out.println("isLargerhirty " + isLargerhirty);
         System.out.println("isLargerEqualThirty " + isLargerEqualThirty);
 
+        double savingsAccountValue = 200;
+        double currentAccountValue = 10000;
+        float playstationValue = 5000F;
+
+        boolean isPlaystationPurchasable = currentAccountValue >= playstationValue || savingsAccountValue >= playstationValue;
+        System.out.println("isPlaystationPurchasable " + isPlaystationPurchasable);
+
 
 
     }
